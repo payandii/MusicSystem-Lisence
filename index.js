@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const licensedPlaces = [
-    "9985019887" // Next Level Club
+    "137792312321327" // Next Level Club
     // Nanti isi Place ID di sini
 ];
 
